@@ -3,7 +3,7 @@ from flask_moment import Moment
 from datetime import datetime
 from flask_bootstrap import Bootstrap
 
-app = Flask(__name__, template_folder='sheets')
+app = Flask(__name__)
 bootstrap = Bootstrap(app)
 moment = Moment(app)
 
