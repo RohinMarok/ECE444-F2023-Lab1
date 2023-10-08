@@ -9,5 +9,6 @@ Activity 3
 
 Activity 4
 
-<img width="1438" alt="Screenshot 2023-10-08 at 12 51 53 PM" src="https://github.com/RohinMarok/ECE444-F2023-Lab1/assets/106834380/644eb612-bc14-4145-826d-eddb3edca909">
-![image](https://github.com/RohinMarok/ECE444-F2023-Lab1/assets/106834380/4ceb6698-3b4e-45b2-8c40-bd68869fe9b3)
+<img width="1440" alt="Screenshot 2023-10-08 at 12 51 49 PM" src="https://github.com/RohinMarok/ECE444-F2023-Lab1/assets/106834380/663e13be-0aa9-413e-9fdc-d74df5b4945b">
+<img width="1440" alt="Screenshot 2023-10-08 at 12 51 49 PM" src="https://github.com/RohinMarok/ECE444-F2023-Lab1/assets/106834380/365871db-2ebc-4a2a-925a-c5c57292cdc4">
+
